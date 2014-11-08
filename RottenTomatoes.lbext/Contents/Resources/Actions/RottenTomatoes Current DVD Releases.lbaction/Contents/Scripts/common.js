@@ -95,8 +95,6 @@ function getUrl(url, params) {
 }
 
 /**
- * Converts Piboard post (bookmark) JSON objects to list results
- * to present in LaunchBar.
  * @param  {array} posts the Pinboard post objects as returned from HTTP JSON requests.
  * @return {array}       LaunchBar results.
  */
