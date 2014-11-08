@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleName</key>
+	<string>Rotten Tomatoes Upcoming Movies</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.bytedash.LaunchBar.action.RottenTomatoesUpcomingMovies</string>
+	<key>CFBundleIconFile</key>
+	<string>fresh.png</string>
+	<key>LBAbbreviation</key>
+	<string>rtum</string>
+	<key>LBDebugLogEnabled</key>
+	<false/>
+	<key>LBDescription</key>
+	<dict>
+		<key>LBAuthor</key>
+		<string>Marco Janssen</string>
+		<key>LBSummary</key>
+		<string>Get Upcoming Movies info from Rotten Tomatoes</string>
+		<key>LBTwitter</key>
+		<string>@M4RC0J</string>
+		<key>LBWebsite</key>
+		<string>http://www.bytedash.com/launchbar</string>
+		<key>LBEmail</key>
+		<string>launchbar@bytedash.com</string>
+	</dict>
+	<key>LBScripts</key>
+	<dict>
+		<key>LBDefaultScript</key>
+		<dict>
+			<key>LBAcceptedArgumentTypes</key>
+			<array>
+				<string>string</string>
+			</array>
+			<key>LBScriptName</key>
+			<string>RottenTomatoesUpcomingMovies.js</string>
+			<key>LBReturnsResult</key>
+			<true/>
+			<key>LBLiveFeedbackEnabled</key>
+			<false/>
+			<key>LBRequiresArgument</key>
+			<false/>
+		</dict>
+	</dict>
+</dict>
+</plist>

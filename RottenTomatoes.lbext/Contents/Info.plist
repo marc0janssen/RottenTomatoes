@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleName</key>
+	<string>RottenTomatoes for LaunchBar</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>LBDescription</key>
+	<dict>
+		<key>LBAuthor</key>
+		<string>Marco Janssen</string>
+		<key>LBSummary</key>
+		<string>Searches and lists Rotten Tomatoes.</string>
+		<key>LBWebsite</key>
+		<string>https://www.bytedash.com/launchbar</string>
+	</dict>
+</dict>
+</plist>
