@@ -5,7 +5,7 @@
 	<key>CFBundleName</key>
 	<string>Rotten Tomatoes New DVD Releases</string>
 	<key>CFBundleVersion</key>
-	<string>1.0</string>
+	<string>1.0.1</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.bytedash.LaunchBar.action.RottenTomatoesNewDVDReleases</string>
 	<key>CFBundleIconFile</key>

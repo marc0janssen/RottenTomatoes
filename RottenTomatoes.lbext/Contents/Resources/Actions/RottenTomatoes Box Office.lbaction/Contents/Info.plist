@@ -5,7 +5,7 @@
 	<key>CFBundleName</key>
 	<string>Rotten Tomatoes Box Office</string>
 	<key>CFBundleVersion</key>
-	<string>1.0</string>
+	<string>1.0.1</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.bytedash.LaunchBar.action.RottenTomatoesBoxOffice</string>
 	<key>CFBundleIconFile</key>

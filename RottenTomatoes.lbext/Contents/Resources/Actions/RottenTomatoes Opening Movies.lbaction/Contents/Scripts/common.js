@@ -114,16 +114,7 @@ function postsAsListResults(results) {
                          subtitle: result.runtime+"mins critcs:"+result.ratings.critics_score+"/"+result.ratings.critics_rating+" audience:"+result.ratings.audience_score+"/"+result.ratings.audience_rating+" mpaa:"+result.mpaa_rating
                          });
     };
-    
-    
-    if (suggestions.length === 0)
-    {
-        return [ {
-                title: "No results found for " + argument,
-                icon: "at.obdev.LaunchBar:InfoTemplate"
-                } ];
-    }
-    
+
     return suggestions;
 }
 
